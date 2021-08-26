@@ -2,10 +2,10 @@
 
 <h3>🤓 About Me</h3>
 
-- I am a 19 year old curious mind with an observant nature. 🤠
+- I am a 19 year old tech enthusiast. 🤠
 - I am currently a second year computer science student. 👨‍🎓
 - I have a keen interest in competitive coding, web development, AI, and open source. 💻
-- I am a tech enthusiast and love creating solutions to real life problems through tech. 💡
+- I love solving real life problems through technology. 💡
 - Nowadays, I am building up my DSA skills with [codechef](https://www.codechef.com/users/riyasharma24) and [hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
 - I am also a freelance writer and an avid reader.✍
 

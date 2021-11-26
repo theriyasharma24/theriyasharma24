@@ -2,7 +2,7 @@
 
 <h2>🤓 About Me</h2>
 
-- I am an 18 year old tech enthusiast. 🤠
+- I am an 19 year old tech enthusiast. 🤠
 - I am currently a second year Computer Science Student. 👨‍🎓
 - I have a keen interest in Competitive Programming, Web Development, AI, and Open Source. 💻
 - I love solving real life problems through technology. 💡

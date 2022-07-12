@@ -3,7 +3,7 @@
 <h2>🤓 About Me</h2>
 
 - I am an 19 year old tech enthusiast. 🤠
-- I am currently a second year Computer Science Student. 👨‍🎓
+- I am currently a third year Computer Science Student. 👨‍🎓
 - I have a keen interest in Competitive Programming, Web Development, AI, and Open Source. 💻
 - I love solving real life problems through technology. 💡
 - Nowadays, I am building up my DSA skills with [codechef](https://www.codechef.com/users/riyasharma24) and [hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱

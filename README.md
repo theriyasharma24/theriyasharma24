@@ -4,7 +4,7 @@
 
 - I am a 19 year old tech enthusiast. 🤠
 - I am currently a third year Computer Science Student. 👨‍🎓
-- I have a keen interest in Competitive Programming, Web Development, AI, and Open Source. 💻
+- I have a keen interest in Competitive Programming, Web Development, Android Development, AI, and Open Source. 💻
 - I love solving real life problems through technology. 💡
 - Nowadays, I am building up my DSA skills with [leetcode](https://leetcode.com/riyasharma24/) and [hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
 - I am also a Freelance Writer and an Avid Reader.✍
@@ -18,7 +18,7 @@
 
 
 
-<h2>📈 Github Stats</h2>
+<h2>📈 Riya's Github Stats</h2>
 
 <a href="http://www.github.com/theriyasharma24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

@@ -10,6 +10,7 @@
 - I am also a Freelance Writer and an Avid Reader.✍
 - Here are some of my [Technical Blog](https://medium.com/@theriyasharma24) posts.📜
 - Have a look at my [Portfolio Website](https://63b9a50260c301420735ceb3--cheerful-druid-cb1765.netlify.app/#/)! 🎓
+- Here is my [Linkedin Profile](https://www.linkedin.com/in/riya-sharma-19500a182/). Feel free to connect! 👀
 
 <h2>🛠 Tech Stack</h2>
 

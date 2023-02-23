@@ -9,7 +9,7 @@
 - Nowadays, I am building up my DSA skills with [leetcode](https://leetcode.com/riyasharma24/) and [hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
 - I am also a Freelance Writer and an Avid Reader.✍
 - Here are some of my [Technical Blog](https://medium.com/@theriyasharma24) posts.📜
-- Have a look at my [Portfolio Website](https://theriyasharma24.github.io/Portfolio/#/)! 🎓
+- Have a look at my [Portfolio Website](https://update--cheerful-druid-cb1765.netlify.app/#/home)! 🎓
 - Here is my [Linkedin Profile](https://www.linkedin.com/in/riya-sharma-19500a182/). Feel free to connect! 👀
 
 <h2>🛠 Tech Stack</h2>

@@ -26,9 +26,21 @@
 
 
 <h2>📈 Riya's Github Stats</h2>
-<a href="http://www.github.com/theriyasharma24"><img src="https://github-readme-stats.vercel.app/api?username=theriyasharma24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Riya's GitHub stats" /></a>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=theriyasharma24&show_icons=true&hide=&count_private=true&theme=dark&locale=en" alt="theriyasharma24" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theriyasharma24&show_icons=true&theme=dark&locale=en&layout=compact" alt="theriyasharma24" /></td>
+  </tr>
+</table>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&theme=dark" alt="theriyasharma24" /></p>
+  </div>
+  
+  
+  
+<!-- <a href="http://www.github.com/theriyasharma24"><img src="https://github-readme-stats.vercel.app/api?username=theriyasharma24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Riya's GitHub stats" /></a>
 
-<a href="http://www.github.com/theriyasharma24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/theriyasharma24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <!-- <a href="https://www.buymeacoffee.com/riyasharma24" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 107px !important;" ></a> -->
 

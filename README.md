@@ -2,7 +2,7 @@
 <h2>🤓 About Me</h2>
 
 - I am a tech enthusiast. 🤠
-- I am currently a third year Computer Science Student. 👨‍🎓
+- I have completed my Computer Science Major from University of Delhi. 👨‍🎓
 - I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
 - I love solving real life problems through technology. 💡
 - Nowadays, I am building up my DSA skills with [leetcode](https://leetcode.com/riyasharma24/) and [hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱

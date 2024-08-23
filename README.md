@@ -1,10 +1,9 @@
 <h1>Hey, I'm Riya Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h2>🤓 About Me</h2>
 
-- I am a tech enthusiast. 🤠
+- I am a Full Stack Developer. 🤠
 - I have completed my Computer Science Major from University of Delhi. 👨‍🎓
-- I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
-- I love solving real life problems through technology. 💡
+- I have a keen interest in Web and Android Development. 💻
 - Nowadays, I am building up my DSA skills with [leetcode](https://leetcode.com/riyasharma24/) and [hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
 - I am also a Freelance Writer and an Avid Reader.✍
 - Here are some of my [Technical Blog](https://medium.com/@theriyasharma24) posts.📜

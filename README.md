@@ -8,7 +8,6 @@
 - I am also a Freelance Writer and an Avid Reader.✍
 - Here are some of my [Technical Blog](https://medium.com/@theriyasharma24) posts.📜
 - Have a look at my [Portfolio Website](https://riya-sharma-portfolio.netlify.app/#/home)! 🎓
-- Here are my [Social Links](https://bio.link/riyasharma24). Feel free to connect! 👀
 
 <h2>🛠 Tech Stack</h2>
 

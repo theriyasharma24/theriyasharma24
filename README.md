@@ -4,8 +4,7 @@
 - I am a Full Stack Developer. 🤠
 - I have completed my Computer Science Major from University of Delhi. 👨‍🎓
 - I have a keen interest in Web and Android Development. 💻
-- Nowadays, I am building up my DSA skills with [leetcode](https://leetcode.com/riyasharma24/) and [hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
-- I am also a Freelance Writer and an Avid Reader.✍
+- I am constantly building my DSA skills with [leetcode](https://leetcode.com/riyasharma24/) and [hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
 - Here are some of my [Technical Blog](https://medium.com/@theriyasharma24) posts.📜
 - Have a look at my [Portfolio Website](https://riya-sharma-portfolio.netlify.app/#/home)! 🎓
 

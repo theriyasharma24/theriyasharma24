@@ -28,9 +28,9 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theriyasharma24&show_icons=true&theme=dark&locale=en&layout=compact" alt="theriyasharma24" /></td>
   </tr>
 </table> -->
-<div align="center">
+<!-- <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&theme=dark" alt="theriyasharma24" /></p>
-</div> 
+</div>  -->
   
  
 

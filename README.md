@@ -21,7 +21,7 @@
 
 <!-- Github Profile Stats -->
 
-<h2>📈 Riya's Github Stats</h2> 
+<!-- <h2>📈 Riya's Github Stats</h2> -->
 <!-- <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=theriyasharma24&show_icons=true&hide=&count_private=true&theme=dark&locale=en" alt="theriyasharma24" /></td>

@@ -2,7 +2,7 @@
 <h2>🤓 About Me</h2>
 
 - I am a Full Stack Developer. 🤠
-- I have completed my Computer Science Major from University of Delhi. 👨‍🎓
+- I am currently pursuing my Masters in Computer Science. 👨‍🎓
 - I have a keen interest in Web and Android Development. 💻
 - I am constantly building my DSA skills with [Leetcode](https://leetcode.com/riyasharma24/) , [GeeksforGeeks](https://www.geeksforgeeks.org/user/theriyasharma24/) , and [Hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
 - Here are some of my [Technical Blog](https://medium.com/@theriyasharma24) posts.📜

@@ -28,10 +28,19 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theriyasharma24&show_icons=true&theme=dark&locale=en&layout=compact" alt="theriyasharma24" /></td>
   </tr>
 </table> -->
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&theme=dark" alt="theriyasharma24" /></p>
-</div> 
-  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=theriyasharma24&rank_icon=percentile&theme=dark&hide=contribs" 
+           alt="Riya's GitHub stats" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&theme=dark" 
+           alt="Riya's GitHub streak stats"  height="200" />
+    </td>
+  </tr>
+</table>
+
  
 
 

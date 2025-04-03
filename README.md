@@ -35,7 +35,7 @@
            alt="Riya's GitHub stats" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&theme=dark" 
+     <img src ="https://nirzak-streak-stats.vercel.app/?user=theriyasharma24&theme=dark"
            alt="Riya's GitHub streak stats"  height="200" />
     </td>
   </tr>

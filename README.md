@@ -1,12 +1,10 @@
-<h1>Hey, I'm Riya Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1>Hey, I'm Riya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h2>🤓 About Me</h2>
 
-- I am a Full Stack Developer. 🤠
-- I am currently pursuing my Masters in Computer Applications. 👨‍🎓
-- I have a keen interest in Web and Android Development. 💻
-- I am constantly building my DSA skills with [Leetcode](https://leetcode.com/riyasharma24/) , [GeeksforGeeks](https://www.geeksforgeeks.org/user/theriyasharma24/) , and [Hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
-- Here are some of my [Technical Blog](https://medium.com/@theriyasharma24) posts.📜
-- Have a look at my [Portfolio Website](https://riya-sharma-portfolio.netlify.app/#/home)! 🎓
+- Writing code that bring ideas to life. 💡
+- Upskilling my problem solving skills with [Leetcode](https://leetcode.com/riyasharma24/) , [GeeksforGeeks](https://www.geeksforgeeks.org/user/theriyasharma24/) , and [Hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
+- Sharing what I learn on my [Technical Blog](https://medium.com/@theriyasharma24).📜
+- Curious to know more? Have a look at my [Portfolio Website](https://riya-sharma-portfolio.netlify.app/#/home)! 🎓
 
 <h2>🛠 Tech Stack</h2>
 
@@ -40,6 +38,7 @@
     </td>
   </tr>
 </table>
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=theriyasharma24&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="theriyasharma24's Stats" height="165"/> -->
 
  
 

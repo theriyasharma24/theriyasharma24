@@ -3,7 +3,7 @@
 
 - Writing code that bring ideas to life. 💡
 - Upskilling my problem solving skills with [Leetcode](https://leetcode.com/riyasharma24/) , [GeeksforGeeks](https://www.geeksforgeeks.org/user/theriyasharma24/) , and [Hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).🖱
-- Sharing what I learn on my [Technical Blog](https://medium.com/@theriyasharma24).📜
+- Sharing what I learn on my [Blogsite](https://medium.com/@theriyasharma24).📜
 - Curious to know more? Have a look at my [Portfolio Website](https://riya-sharma-portfolio.netlify.app/#/home)! 🎓
 
 <h2>🛠 Tech Stack</h2>

@@ -1,5 +1,5 @@
 <h1>Hey, I'm Riya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<h2>🤓 About </h2>
+<h2>🤓 About Me </h2>
 
 - I write code that transforms ideas into reality. 
 - Continuously sharpening my problem-solving skills on [Leetcode](https://leetcode.com/riyasharma24/) , [GeeksforGeeks](https://www.geeksforgeeks.org/user/theriyasharma24/) , and [Hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).

@@ -4,7 +4,7 @@
 - I write code that transforms ideas into reality. 
 - Continuously sharpening my problem-solving skills on [Leetcode](https://leetcode.com/riyasharma24/) , [GeeksforGeeks](https://www.geeksforgeeks.org/user/theriyasharma24/) , and [Hackerrank](https://www.hackerrank.com/theriyasharma24?hr_r=1).
 - I document and share what I learn through my [Blogsite](https://medium.com/@theriyasharma24).
-- Curious to know more? Checkout my [Portfolio Website](https://riya-sharma-portfolio.netlify.app/#/home)! 
+- Curious to know more? Checkout my [Portfolio](https://riya-sharma-portfolio.netlify.app/#/home)! 
 
 <h2>🛠 Tech Stack</h2>
 
